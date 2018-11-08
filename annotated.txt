@@ -1,0 +1,16 @@
+Headline SourceNum Party Sentiment
+
+Modi govt faces flak for new BPL criteria 1222 0 -1
+Need to review commitment to education: Modi 1222 0 0
+Govt raises subsidised LPG cap from 9 to 12 1222 0 1
+Express 5: Cloud over Telangana Bill and Modi’s experiment with tea stalls 1227 0 0
+Kejriwal says that the Congress knows that if there is a strong Lokpal, then they will get into trouble. 1227 1 -1
+
+Party
+BJP 0
+Congress 1
+
+Sentiment
+Negative -1
+Neutral 0
+Positive 1
